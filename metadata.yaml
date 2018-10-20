@@ -1,5 +1,5 @@
 _repo: The-Burgomaster-s-Wife-Volume-05_5582
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Safford, Mary J.
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'German fiction -- Translations into English'
 - !lcc 'PT'
 - !lcsh 'Netherlands -- History -- Eighty Years'' War, 1568-1648 -- Fiction'
+- GITenberg
 title: The Burgomaster's Wife — Volume 05
 url: http://www.gutenberg.org/ebooks/5582
